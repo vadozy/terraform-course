@@ -26,4 +26,4 @@ echo '/dev/data/volume1 /data ext4 defaults 0 0' >> /etc/fstab
 mount /data
 
 # install docker
-curl https://get.docker.com | bash
+# curl https://get.docker.com | bash
